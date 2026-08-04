@@ -1,0 +1,2 @@
+# HandleMusic
+Mediapipeを用いて手の動きで音楽を制御するプログラム
